@@ -136,5 +136,4 @@ This example creates a basic social media platform with a news feed, posting upd
 
 Please note that building a full-fledged social media platform like Facebook requires a team of developers, designers, and engineers working together over a period of time. This example is just a starting point.!---
 FRIEND86/FRIEND86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Y
